@@ -1,0 +1,6 @@
+framework module TestCarthage {
+  umbrella header "TestCarthage.h"
+
+  export *
+  module * { export * }
+}

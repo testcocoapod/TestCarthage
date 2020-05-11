@@ -1,0 +1,6 @@
+framework module ok2 {
+  umbrella header "ok2.h"
+
+  export *
+  module * { export * }
+}
